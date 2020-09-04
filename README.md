@@ -28,7 +28,7 @@
   
  
 ## Usage 
- Once the application is running in the web browser, the user can enter titles and text content for notes. Clicking the save button in the upper right corner, the note will be added to the list in the aside section of this notes page. The user can delete the notes with the trash can buttons. 
+ Once the application is running in the web browser, the user can enter titles and text content for notes. Clicking the save button in the upper right corner, the note will be added to the list in the aside section of this notes page. The user can delete the notes with the trash can buttons.The application is also deployed on Heroku here: https://sleepy-island-90524.herokuapp.com/ . 
   
  
 ## Credits 
